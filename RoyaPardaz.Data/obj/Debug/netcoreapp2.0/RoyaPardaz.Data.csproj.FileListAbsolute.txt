@@ -1,0 +1,6 @@
+D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\bin\Debug\netcoreapp2.0\RoyaPardaz.Data.deps.json
+D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\bin\Debug\netcoreapp2.0\RoyaPardaz.Data.dll
+D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.csprojResolveAssemblyReference.cache
+D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.csproj.CoreCompileInputs.cache
+D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.AssemblyInfoInputs.cache
+D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.AssemblyInfo.cs
