@@ -1,6 +1,15 @@
-D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\bin\Debug\netcoreapp2.0\RoyaPardaz.Data.deps.json
-D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\bin\Debug\netcoreapp2.0\RoyaPardaz.Data.dll
-D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.csprojResolveAssemblyReference.cache
-D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.csproj.CoreCompileInputs.cache
-D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.AssemblyInfoInputs.cache
-D:\My Files\Projects\RoyaPardaz\RoyaPardaz\RoyaPardaz.Data\obj\Debug\netcoreapp2.0\RoyaPardaz.Data.AssemblyInfo.cs
+D:/My Files/Projects/RoyaPardaz/RoyaPardaz/RoyaPardaz.Data/bin/Debug/netcoreapp2.0/RoyaPardaz.Data.deps.json
+D:/My Files/Projects/RoyaPardaz/RoyaPardaz/RoyaPardaz.Data/bin/Debug/netcoreapp2.0/RoyaPardaz.Data.dll
+D:/My Files/Projects/RoyaPardaz/RoyaPardaz/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.csprojResolveAssemblyReference.cache
+D:/My Files/Projects/RoyaPardaz/RoyaPardaz/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.csproj.CoreCompileInputs.cache
+D:/My Files/Projects/RoyaPardaz/RoyaPardaz/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.AssemblyInfoInputs.cache
+D:/My Files/Projects/RoyaPardaz/RoyaPardaz/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.AssemblyInfo.cs
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/bin/Debug/netcoreapp2.0/RoyaPardaz.Data.deps.json
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/bin/Debug/netcoreapp2.0/RoyaPardaz.Data.dll
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/bin/Debug/netcoreapp2.0/RoyaPardaz.Data.pdb
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.csprojResolveAssemblyReference.cache
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.csproj.CoreCompileInputs.cache
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.AssemblyInfoInputs.cache
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.AssemblyInfo.cs
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.dll
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Data/obj/Debug/netcoreapp2.0/RoyaPardaz.Data.pdb
