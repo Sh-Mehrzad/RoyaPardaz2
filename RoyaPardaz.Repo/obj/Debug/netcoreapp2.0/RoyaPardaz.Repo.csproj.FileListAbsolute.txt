@@ -1,0 +1,3 @@
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Repo/obj/Debug/netcoreapp2.0/RoyaPardaz.Repo.csproj.CoreCompileInputs.cache
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Repo/obj/Debug/netcoreapp2.0/RoyaPardaz.Repo.AssemblyInfoInputs.cache
+/home/omid/Projects/w/rp/RoyaPardaz2/RoyaPardaz.Repo/obj/Debug/netcoreapp2.0/RoyaPardaz.Repo.AssemblyInfo.cs
